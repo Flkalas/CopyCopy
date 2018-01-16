@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_80dafe47bf3a606dfc376d6f82d2699c1dbfea05.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_c0be957d4703f6bae49a8a17502ab9ec76fd9a4b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_bf39ca707193cb1632c0303e486a3dd6a5e2069d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_b151af6bbf67c5d42401c62d37c8a24bd624b060.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_c5581c7d042d6b8dc86d58163d0ea89f4a434cd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lesenic\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_20cc162cbcf31326d46f97da3cceb1f9d779f443.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_c0c6f70a3cfafb0535d6614db123106fcbd93b31.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_8ec265d5fb21ad341c3ba2cd54d14617e39eca78.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_12cb9913dfdff163a43da9e261cd54371c8e9a4a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_797398fe050f3ea332895f7da3d8cd4fd2d42d6d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_00f7a851cfb8e6724f7a5657f885fc1bb4db1486.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_8d56ee9919a8cfc8b70acbe7876bd936519690d5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="D:\AndroidStudioProjects\MyApplication2\app\build\intermediates\pre-dexed\debug\com.viewpagerindicator-library-2.4.1_a2fc2a8d655dfcba1c2f13c2eaea5a2d5f8b722c.jar" />
+    </item>
+
+</items>

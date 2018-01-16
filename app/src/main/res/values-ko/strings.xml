@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">카피카피</string>
+    <string name="hello_world">복사된 내용이 이 곳에 표시됩니다.</string>
+    <string name="btn_exit">종료</string>
+    <string name="btn_bug">내용이 이상해요</string>
+    <string name="btn_manual">사용법 보기</string>
+    <string name="txt_copied">복사됨</string>
+    <string name="txt_loading">불러오는 중...</string>
+    <string name="txt_load_copy">복사 시작!</string>
+    <string name="manual_1_1">안녕하세요,\n저는 </string>
+    <string name="manual_1_2">입니다!!</string>
+    <string name="manual_2_1">트윗을</string>
+    <string name="manual_2_2">로 \n공유해서 복사하세요</string>
+    <string name="manual_3_1">또는 트윗 링크를 복사해서\n</string>
+    <string name="manual_3_2">를 여세요</string>
+    <string name="manual_end">알겠어요!</string>
+    <string name="str_menu_login">로그인</string>
+    <string name="str_menu_logout">로그아웃</string>
+    <string name="dialog_login">잠금계정의 트윗을 복사하려면 로그인이 필요해요. 지금 하시겠어요?</string>
+    <string name="login">지금 로그인</string>
+    <string name="cancel">나중에</string>
+    <string name="dialog_report">개발자에게 트윗 주소를 보냅니다. 잠금트윗을 보내셔도 개발자는 도움을 드릴 수 없어요.</string>
+    <string name="report">보내기</string>
+    <string name="no_report">안 보낼래요</string>
+    <string name="str_t_login">로그인 되었습니다</string>
+    <string name="str_t_logout">로그아웃 되었습니다</string>
+    <string name="str_t_load_tweet">트윗 불러오는중...</string>
+    <string name="str_t_report">보고서를 보냈습니다</string>
+    <string name="txt_shared_is_not">죄송해요, 트위터에서 공유한게\n 아닌 것 같아요. :-(</string>
+    <string name="txt_clip_is_not">죄송해요, 클립보드 내용에\n 트윗주소가 없어요. :-(</string>
+    <string name="txt_shared_not_found">죄송해요, 공유된 내용에서\n 트윗주소를 찾지 못했어요. :-(</string>
+    <string name="txt_can_not_load">트윗을 불러올 수 없습니다.\n 1. 인터넷 상태를 확인해주세요.\n 2. 잠금계정의 트윗을 복사하시려면, 로그인 해주세요.</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5995824957853934/1194535201</string>
+    <string name="title_activity_main22">카피카피</string>
+</resources>

@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mindlink.flkalas.copycopy.MainActivity">
+
+    <!-- view for AdMob Banner Ad -->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_above="@+id/adView">
+
+        <TextView
+            android:id="@+id/receiveText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hello_world"
+            android:maxLines = "99999999"
+            android:scrollbars = "vertical"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="false"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_alignParentTop="true"
+            android:textSize="15sp"
+            android:layout_above="@+id/linearLayout"
+            android:paddingTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/linearLayout">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/txt_loading"
+                android:id="@+id/tweet_src"
+                android:minHeight="80dp"
+                android:textSize="20sp"
+                android:textIsSelectable="false"
+                android:gravity="center_vertical|center"
+                android:singleLine="false"
+                android:background="#bdefffd0"
+                android:width="0dip" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="2"
+                android:clickable="false">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:text="@string/btn_exit"
+                    android:id="@+id/btn_main"
+                    android:layout_weight="1"
+                    android:textIsSelectable="false"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical|center"
+                    android:layout_gravity="bottom"
+                    android:background="#a7e3ff"
+                    android:onClick="clickMain"
+                    android:clickable="true"
+                    android:contextClickable="true" />
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:text="@string/btn_manual"
+                    android:id="@+id/btn_sub"
+                    android:layout_weight="1"
+                    android:textSize="20sp"
+                    android:layout_gravity="bottom"
+                    android:gravity="center_vertical|center"
+                    android:background="#ABFFA5"
+                    android:onClick="clickSub" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

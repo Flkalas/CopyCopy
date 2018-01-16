@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mindlink.flkalas.copycopy.MainActivity">
+    <item
+        android:id="@+id/action_session"
+        android:orderInCategory="100"
+        android:title="@string/str_menu_login"
+        app:showAsAction="never" />
+</menu>

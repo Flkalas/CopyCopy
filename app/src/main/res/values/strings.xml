@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CopyCopy</string>
+    <string name="str_menu_login">Login</string>
+    <string name="str_menu_logout">Logout</string>
+    <string name="hello_world">Copied content is shown here.</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_bug">Wrong Content!</string>
+    <string name="btn_manual">Show Manual</string>
+    <string name="txt_copied">Copied</string>
+    <string name="txt_loading">Loading...</string>
+    <string name="txt_load_copy">Load and Copy</string>
+    <string name="dialog_login">To copy protected account tweet, you need to login. Do you want to login now?</string>
+    <string name="login">Login now</string>
+    <string name="cancel">Do it later</string>
+    <string name="dialog_report">Send tweet address to developer. If it is protected tweet, developer can not help you.</string>
+    <string name="report">Send</string>
+    <string name="no_report">Nope</string>
+    <string name="manual_1_1">Hello, I am </string>
+    <string name="manual_1_2">!!</string>
+    <string name="manual_2_1">Share Tweet to </string>
+    <string name="manual_2_2"></string>
+    <string name="manual_3_1">Or, copy Tweet link\nand open </string>
+    <string name="manual_3_2"></string>
+    <string name="manual_end">I Got It!</string>
+    <string name="str_t_login">Signed in</string>
+    <string name="str_t_logout">Signed Out</string>
+    <string name="str_t_load_tweet">Load Tweet</string>
+    <string name="str_t_report">Report Sended</string>
+    <string name="txt_shared_is_not">Sorry, shared text \nis not from Twitter app :-(</string>
+    <string name="txt_clip_is_not">Sorry, tweet address is not found \nin the clipboard text :-(</string>
+    <string name="txt_shared_not_found">Sorry, tweet address is not found \nin the shared text :-(</string>
+    <string name="txt_can_not_load">Can not load tweet\n 1. Please check your internet status.\n 2. If you try to copy protected tweet, please login.</string>
+
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-5995824957853934/1194535201</string>
+    <string name="title_activity_main22">CopyCopy</string>
+
+</resources>
+
